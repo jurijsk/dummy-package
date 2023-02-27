@@ -11,5 +11,7 @@ v1.0.2
 	- send it
 v1.0.3
 	- Getting rid of `      - run: npm test` is the GitHub Actions workflow
-v.1.0.4
+v1.0.4
 	- trying to deal with the vesion number
+v1.0.5
+	- trying to deal with the vesion number #2
