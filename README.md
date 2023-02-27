@@ -21,3 +21,5 @@ v1.0.7
 	- setting user name and email #2
 v1.0.8
 	- fixing `error: unable to sign the tag`
+v1.1.0
+	- changing vesion to 1.1
