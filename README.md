@@ -19,3 +19,5 @@ v1.0.6
 	- setting user name and email
 v1.0.7
 	- setting user name and email #2
+v1.0.8
+	- fixing `error: unable to sign the tag`
