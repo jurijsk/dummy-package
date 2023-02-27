@@ -43,3 +43,5 @@ v1.1.3
 	- added some notes on `.npmrc`
 v1.1.4
 	- fixing the publishning problem
+v1.1.5
+	- removing `.npmrc`
