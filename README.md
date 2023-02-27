@@ -15,3 +15,5 @@ v1.0.4
 	- trying to deal with the vesion number
 v1.0.5
 	- trying to deal with the vesion number #2
+v1.0.6
+	- setting user name and email

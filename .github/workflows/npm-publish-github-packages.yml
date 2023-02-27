@@ -31,6 +31,8 @@ jobs:
           node-version: 16
           registry-url: https://npm.pkg.github.com/
       - run: npm ci
+      - run: npm config set user.name "Jurijs Kovzels"
+      - run: npm config set user.email "jurijs.kovzels@outlook.com"
       - run: npm config set sign-git-tag true
       - run: npm version patch
       - run: npm publish
