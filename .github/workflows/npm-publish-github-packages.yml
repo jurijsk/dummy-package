@@ -18,7 +18,7 @@ jobs:
           node-version: 16
       - run: npm ci
 
-  publish-gpr:
+  publish-gpr: # Publish to GitHub Package Repository
     needs: build
     runs-on: ubuntu-latest
     permissions:
