@@ -1,8 +1,7 @@
 # dummy
 This repo will contain nothing expect readme and some other BS just to text checkout with PET. Novel idea huh. 
 
-## 
-How publiching to GitHub Packages works
+## How to GitHub Packages publishing works
 
 To publish to GitHub Packages I've used [GitHub template](https://github.com/jurijsk/dummy/actions/new?category=continuous-integration&query=Publish+Node.js+Package+to+GitHub+Packages) with a couple of change, which include:
  * Changed default befaviour to only publish on `relese: types: [created]` (see lines:6-8) to publich on every commit.
