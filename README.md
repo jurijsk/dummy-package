@@ -36,7 +36,7 @@ v1.0.7
 v1.0.8
 	- fixing `error: unable to sign the tag`
 v1.1.0
-	- changing vesion to 1.1
+	- changing version to 1.1
 v1.1.2
 	- added some notes on how the package is published
 v1.1.3
